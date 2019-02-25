@@ -17,3 +17,5 @@ Using the same project/app from Exercise 2, create a django template for the rou
 - Display all entries in the database as an HTML list
 - Display "Here are all of the cups manufactured after 2012"
 - Display all cups manufacturered after 2012
+<hr>
+2 points.
